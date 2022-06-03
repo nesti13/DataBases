@@ -1,0 +1,2 @@
+use SALES;
+SELECT *From GOODS;
